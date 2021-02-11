@@ -1,4 +1,2 @@
 
-# Perlin Circles
-
-Just another art project
+# Just another art project
