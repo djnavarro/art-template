@@ -1,6 +1,6 @@
 
 sample_shades <- function(n) {
-  sample(colours(distinct = TRUE), n = n)
+  sample(colours(distinct = TRUE), size = n)
 }
 
 blend_shades <- function(x, y, p = .5) {
