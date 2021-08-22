@@ -1,2 +1,1 @@
-
 # Just another art project
